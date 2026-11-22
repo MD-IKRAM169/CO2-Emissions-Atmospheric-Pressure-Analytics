@@ -1,0 +1,20 @@
+# Generated outputs and local source files (do not commit downloaded datasets)
+outputs/
+raw-data/
+local-data/
+*.db
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite-journal
+
+# Python caches and development environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+.ipynb_checkpoints/

@@ -1,0 +1,5 @@
+country,year,co2,population,temperature_change_from_co2
+Germany,2020,100,83000000,0.25
+France,2020,80,65000000,0.20
+Germany,2021,99,83100000,0.26
+France,2021,,65100000,0.20
